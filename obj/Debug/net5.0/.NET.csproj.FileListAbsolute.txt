@@ -1,0 +1,16 @@
+C:\Users\jeans\Área de Trabalho\.NET\bin\Debug\net5.0\.NET.exe
+C:\Users\jeans\Área de Trabalho\.NET\bin\Debug\net5.0\.NET.deps.json
+C:\Users\jeans\Área de Trabalho\.NET\bin\Debug\net5.0\.NET.runtimeconfig.json
+C:\Users\jeans\Área de Trabalho\.NET\bin\Debug\net5.0\.NET.runtimeconfig.dev.json
+C:\Users\jeans\Área de Trabalho\.NET\bin\Debug\net5.0\.NET.dll
+C:\Users\jeans\Área de Trabalho\.NET\bin\Debug\net5.0\ref\.NET.dll
+C:\Users\jeans\Área de Trabalho\.NET\bin\Debug\net5.0\.NET.pdb
+C:\Users\jeans\Área de Trabalho\.NET\obj\Debug\net5.0\.NET.csprojAssemblyReference.cache
+C:\Users\jeans\Área de Trabalho\.NET\obj\Debug\net5.0\.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeans\Área de Trabalho\.NET\obj\Debug\net5.0\.NET.AssemblyInfoInputs.cache
+C:\Users\jeans\Área de Trabalho\.NET\obj\Debug\net5.0\.NET.AssemblyInfo.cs
+C:\Users\jeans\Área de Trabalho\.NET\obj\Debug\net5.0\.NET.csproj.CoreCompileInputs.cache
+C:\Users\jeans\Área de Trabalho\.NET\obj\Debug\net5.0\.NET.dll
+C:\Users\jeans\Área de Trabalho\.NET\obj\Debug\net5.0\ref\.NET.dll
+C:\Users\jeans\Área de Trabalho\.NET\obj\Debug\net5.0\.NET.pdb
+C:\Users\jeans\Área de Trabalho\.NET\obj\Debug\net5.0\.NET.genruntimeconfig.cache
